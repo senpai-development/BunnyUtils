@@ -1,15 +1,15 @@
-# DiscordUtils
-A very useful library made to be used in with [discord.py](https://pypi.org/project/discord.py/)
+# BunnyUtils
+A very useful library made to be used for [senpai](https://pypi.org/project/sen-pai/)
 
 # Installation
 For access to Pagination and InviteTracker use:
 ```
-pip install DiscordUtils
+pip install BunnyUtils
 ```
 
 or, instead use the following for access to Music functions aswell
 ```
-pip install DiscordUtils[voice]
+pip install BunnyUtils[voice]
 ```
 Requires discord.py[voice] so make sure you have all dependencies of it installed.
 
@@ -153,11 +153,11 @@ async def remove(ctx, index):
 For further information please read the docs
 
 # Links
-**[Documentation](https://docs.discordutils.gq)**
+**[Documentation](https://senpai.rtfd.io/Utils)**
 
-**[Github](https://github.discordutils.gq)**
+**[Github](https://github.com/senpai-development/BunnyUtils)**
 
 # Support
-**__Please make sure that you are on the latest version of [DiscordUtils](https://pypi.org/project/DiscordUtils) and [youtube_dl](https://pypi.org/project/youtube_dl) before contacting for support__**
+**__Please make sure that you are on the latest version of [BunnyUtils](https://pypi.org/project/BunnyUtils) and [youtube_dl](https://pypi.org/project/youtube_dl) before contacting for support__**
 
-DM/PM `toxic_recker#2795` on Discord for support
+DM/PM `VincentRPS#9183` on Discord for support
